@@ -23,8 +23,8 @@
 <p>
 
 <strong>Você vai me encontrar em qualquer uma das redes sociais abaixo</strong> </br>
-<a *target*="_blank" href="mailto:felipeeduardol7@outlook.com">- Outlook.com</a> </br>
-<a *target*="_blank" href="https://www.linkedin.com/in/felipe-pereira-eduardo-41ab64217/">- LinkedIn</a> </br>
-<a *target*="_blank" href="https://app.rocketseat.com.br/me/felipe-pereira-eduardo-00732">- Perfil Rocketseat</a>
+<a target="_blank" href="mailto:felipeeduardol7@outlook.com">- Outlook.com</a> </br>
+<a target="_blank" href="https://www.linkedin.com/in/felipe-pereira-eduardo-41ab64217/">- LinkedIn</a> </br>
+<a target="_blank" href="https://app.rocketseat.com.br/me/felipe-pereira-eduardo-00732">- Perfil Rocketseat</a>
 
 </p>
