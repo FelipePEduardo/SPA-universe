@@ -14,10 +14,6 @@
 - [ Javascript ]
 - [ Node.js ]
 
-## Aplicação
-
-<p>O projeto está disponível no <a href="https://felipepeduardo.github.io/SPA-universe/">link</a> junto com projeto no <a href="https://www.figma.com/file/EaVyHa0dsxWIkb97ATchNL/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=2%3A2">figma</a></p>
-
 ## Contatos
 
 <p>
