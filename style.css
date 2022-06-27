@@ -1,0 +1,149 @@
+/* ================== GERAL ======================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --primary-color: white;
+  --nav-clr: hsl(240, 7%, 78%);
+  --text-clr: hsl(240, 9%, 89%);
+  --text-button-hover: hsl(194, 97%, 31%);
+}
+
+body {
+  font-size: 1.6rem;
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* ================== BODY ====================== */
+/* body {
+  background-image: url(./assets/mountains-universe-1.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+nav {
+  width: 48.9rem;
+
+  justify-self: start;
+  align-self: start;
+
+  padding: 4rem 0 0 7.2rem;
+
+  display: flex;
+  align-items: center;
+  gap: 3.2rem;
+}
+
+nav ul {
+  list-style: none;
+
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: var(--nav-clr);
+
+  font-weight: 400;
+  font-size: 2.1rem;
+  line-height: 2.2rem;
+}
+
+nav a:hover {
+  color: white;
+  font-weight: 700;
+}
+
+main {
+  text-align: center;
+  margin-top: 21.2rem;
+}
+
+main h1 {
+  font-weight: 700;
+  font-size: 4.8rem;
+  color: var(--text-clr);
+
+  margin-bottom: 2.4rem;
+}
+
+main a {
+  width: 19.5rem;
+  background: none;
+  border: 2px solid white;
+  border-radius: 5px;
+
+  padding: 1.2rem 3.2rem;
+
+  color: white;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.4rem;
+  text-decoration: none;
+
+  cursor: pointer;
+}
+
+main a:hover {
+  background-color: white;
+  color: var(--text-button-hover);
+  transition: 300ms;
+}
+
+.page {
+  margin: 10.3rem 0 0 10.2rem;
+  color: var(--text-clr);
+}
+
+.page h1 {
+  font-size: 4.8rem;
+  line-height: 125%;
+  margin-bottom: 1.6rem;
+}
+
+.page p {
+  width: 65rem;
+  font-size: 1.8rem;
+  line-height: 160%;
+}
+
+img {
+  width: 100vw;
+  height: 100vh;
+}
+
+main + img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.page.universe + img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.page.exploration + img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+/* .page + img {
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
+ */
