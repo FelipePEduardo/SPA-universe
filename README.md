@@ -5,7 +5,7 @@
 
 ## Sobre
 
-<p>O desafio de hoje foi para aprendermos o Conceito de SPA(Single Page Aplication) fazendo essa pequena página sobre o universo muito bonita!</p>
+<p>O desafio de hoje foi para aprendermos o *conceito* de SPA(Single Page Aplication) fazendo essa pequena página sobre o universo muito bonita!</p>
 
 ## Tecnologias utilizadas
 
